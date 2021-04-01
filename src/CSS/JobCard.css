@@ -1,0 +1,11 @@
+.JobCard p {
+    font-size: .9em;
+}
+
+.JobCard .button {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+    color: black;
+    font-size: .75em
+}
